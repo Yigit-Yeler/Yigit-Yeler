@@ -21,7 +21,7 @@ A Firebase-integrated project. In this application, user authentication and data
 A collection of tutorial projects I developed while learning React.js. These projects helped me practice key React functionalities, state management, and component structuring.
 
 ## 📫 Contact Me
-- **LinkedIn**: [Yigit Yeler](https://www.linkedin.com/in/yigit-yeler/)
+- **LinkedIn**: [Yigit Yeler](https://www.linkedin.com/in/yi%C4%9Fityeler/)
 - **Email**: yeleryigit40@gmail.com
 
 Thank you for visiting! I'm always open to feedback or questions about my projects. I'm excited to learn new technologies and continue expanding my projects!
