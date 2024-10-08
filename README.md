@@ -4,9 +4,9 @@ I'm a software engineer who is constantly learning new technologies and improvin
 
 ## 🚀 Technical Skills
 
-- **Frontend**: React, JavaScript, HTML5, CSS3
-- **Backend**: Node.js, Firebase
-- **Database**: MongoDB, Firebase
+- **Frontend**: React, NextJs, JavaScript, TypeScript, ReactNative, HTML5, CSS3, Bootstrap
+- **Backend**: Node.js, NestJs, Java (SpringBoot), PHP (CodeIgniter), DJango
+- **Database**: MongoDB, Firebase, PostgreSQL, MSSQL, MySQL
 - **Tools**: Git, GitHub, VSCode
 
 ## 📌 Featured Projects
